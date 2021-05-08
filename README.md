@@ -1,6 +1,7 @@
-# GitHub Stats Visualizations : Transparent
-> Generate visualizations of GitHub user and repository statistics using GitHub
-Actions.
+# GitHub Statistics : Transparent
+> Generate visualizations of GitHub user and repository statistics using GitHub Actions.
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MrBotDeveloper&repo=GitHub-Statistics)](https://github.com/MrBotDeveloper)
 
 <a href="https://github.com/MrBotDeveloper/GitHub-Statistics">
 
@@ -8,6 +9,8 @@ Actions.
 ![](https://raw.githubusercontent.com/MrBotDeveloper/GitHub-Statistics/output/generated/languages.svg)
 
 </a>
+
+
 
 > NOTE: This repository is my extension of the repo [jstrieb/github-stats](https://github.com/jstrieb/github-stats). This repo was meant to serve as a detached fork of his project. If you like this repository make sure you also star his repository to show appreciation for his work. 
 
